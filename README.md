@@ -59,7 +59,7 @@ Here’s the breakdown of the top data analyst jobs in 2023:
 **Diverse Employers:** Major companies like SmartAsset, Meta, and AT&T are offering high-paying positions, showcasing demand across various industries.
 **Job Title Variety:** There's a broad range of job titles, from Data Analyst to Director of Analytics, illustrating the diverse roles and specializations within the data analytics domain.
 
-![Top Paying Roles](./1_top_paying_job.png)
+![Top Paying Job](./1_top_paying_job.png)
 *ChatGPT generated this graph from my SQL query results*
 
 bar chart visualizing the top-paying data analyst roles in 2023, with salaries ranging from $184,000 to $650,000. The highest salary is for a Data Analyst role at Mantys, and the lowest for an ERM Data Analyst at Get It Recruit - Information Technology. The chart also highlights other high-paying roles across companies like Meta, AT&T, and SmartAsset
