@@ -106,8 +106,7 @@ Here’s the breakdown of the most in-demand skills for the top 10 highest-payin
 **Tableau** is also highly sought after, showing up in 6 of the roles.
 **Other skills** like R, Snowflake, Pandas, and Excel are also in demand but with varying frequencies.
 
-![Top Paying Skills](./2_top_paying_roles_skills.png)
-
+![Top Paying Roles](./2_top_paying_roles_skills.png)
 *ChatGPT generated this graph from my SQL query results*
 
 ### 3_top_demanded_skills
